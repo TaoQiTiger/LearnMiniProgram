@@ -11,4 +11,6 @@
     <text class="user-motto">{{motto}}</text>
   </view>
   <button class="btn">按钮</button>
+  <view>hello,world!!!</view>
+  <view>NiHao!!!</view>
 </view>
